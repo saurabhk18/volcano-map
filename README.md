@@ -1,0 +1,1 @@
+A map that shows prominent volcanoes in the US with a popup for each volcano to show its name and height. The package 'folium' was used.
